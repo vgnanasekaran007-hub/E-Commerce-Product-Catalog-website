@@ -111,3 +111,12 @@ Instead of generating the products grid purely from HTML strings, `ProductCard.j
 
 ### Reactive State Sync
 The global state uses a Pub/Sub design. When cart items are modified or wishlists updated, subscribers are immediately triggered. The Cart and Wishlist pages listen to this stream, allowing pages to instantly redraw when values change, keeping local storage sync fully automatic.
+
+---
+
+## Author
+
+- **Name**: Gnanasekaran V
+- **Email**: [v.gnanasekaran007@gmail.com](mailto:v.gnanasekaran007@gmail.com)
+- **GitHub**: [@vgnanasekaran007-hub](https://github.com/vgnanasekaran007-hub)
+
