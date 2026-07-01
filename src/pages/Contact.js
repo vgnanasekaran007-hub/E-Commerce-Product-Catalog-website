@@ -76,7 +76,7 @@ export const Contact = {
               <div class="contact-info-card__icon">✉️</div>
               <div>
                 <h3 class="contact-info-card__title">Email Desk</h3>
-                <p class="contact-info-card__text">support@aurashop.com (Support)<br>curations@aurashop.com (Listing info)</p>
+                <p class="contact-info-card__text">v.gnanasekaran007@gmail.com (Direct)<br>support@aurashop.com (Support)</p>
               </div>
             </div>
 

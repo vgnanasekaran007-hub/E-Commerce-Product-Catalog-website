@@ -65,9 +65,9 @@ export const About = {
           <h2 style="text-align: center; margin-bottom: var(--space-8);">Meet the Founders</h2>
           <div class="team-grid">
             <div class="team-card">
-              <div class="team-card__avatar">VN</div>
-              <h3 class="team-card__name">Vignesh G.</h3>
-              <div class="team-card__role">Chief Executive Officer</div>
+              <div class="team-card__avatar">GV</div>
+              <h3 class="team-card__name">Gnanasekaran V</h3>
+              <div class="team-card__role">Founder & CEO</div>
             </div>
             <div class="team-card">
               <div class="team-card__avatar">SL</div>

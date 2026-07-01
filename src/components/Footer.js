@@ -54,7 +54,7 @@ class Footer {
           </div>
 
           <div class="footer-bottom">
-            <p>&copy; ${new Date().getFullYear()} AURA Inc. All rights reserved.</p>
+            <p>&copy; ${new Date().getFullYear()} AURA Inc. Built by <a href="https://github.com/vgnanasekaran007-hub" target="_blank" style="color: var(--color-primary-light);">Gnanasekaran V</a>.</p>
             <div class="flex gap-4">
               <span>Secure Payments</span>
               <span>•</span>
