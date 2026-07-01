@@ -2,7 +2,7 @@
 
 A production-ready, portfolio-quality Single Page Application (SPA) E-Commerce catalog built using **Vanilla HTML5, CSS3, and JavaScript (ES6+)** with a fully modular architecture. Built as a Capstone project.
 
-Live Demo: *[Vercel Live URL Placeholder]*
+Live Demo: [https://e-commerce-product-catalog-website.vercel.app/](https://e-commerce-product-catalog-website.vercel.app/)
 
 ---
 
