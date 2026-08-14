@@ -110,7 +110,7 @@ Rather than tightly coupling every page to the notification widget, a Custom Eve
 Instead of generating the products grid purely from HTML strings, `ProductCard.js` creates a DOM node programmatically. This allows event listeners (like cart addition and wishlist heart toggles) to be bound directly to buttons before grid insertion, avoiding brittle global callbacks or document event-delegation selectors.
 
 ### Reactive State Sync
-The global state uses a Pub/Sub design. When cart items are modified or wishlists updated, subscribers are immediately triggered. The Cart and Wishlist pages listen to this stream, allowing pages to instantly redraw when values change, keeping local storage sync.
+The global state uses a Pub/Sub design. When cart items are modified or wishlists updated, subscribers are immediately triggered. The Cart and Wishlist pages listen to this stream, allowing pages to instantly redraw when values change.
 ---
 
 ## Author
